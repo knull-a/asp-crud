@@ -25,6 +25,7 @@ public class PeopleController : Controller
   [HttpPost]
   public IActionResult Create(PersonModel person)
   {
+
     _context.People.Add(person);
     _context.SaveChanges();
     return RedirectToAction("Index");

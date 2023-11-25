@@ -73,3 +73,5 @@
 /home/ken/Documents/code/CSHARP/Crud/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
 /home/ken/Documents/code/CSHARP/Crud/bin/Debug/net7.0/Mono.TextTemplating.dll
 /home/ken/Documents/code/CSHARP/Crud/bin/Debug/net7.0/System.CodeDom.dll
+/home/ken/Documents/code/CSHARP/Crud/bin/Debug/net7.0/Npgsql.dll
+/home/ken/Documents/code/CSHARP/Crud/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
